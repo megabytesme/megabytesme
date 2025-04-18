@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hey! 👋🏻
 
-<!--
-**megabytesme/megabytesme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ben, a student and developer with a passion for trying out new areas of software development, from utilities, webapps and modding games to university projects and desktop applications.
 
-Here are some ideas to get you started:
+I have a keen interest on unique platforms (ranging from Windows 10 Mobile to the Nintendo Wii U) - They hold a special place to me for some reason 😂. Beyond software development, I also have an interest in electronics, cars and DIY.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies & Languages
+
+I primarily work with:
+
+* **C#**
+* **C++**
+* **Java**
+* **Lua**
+* **TypeScript**
+
+I have also tinkered with technologies and concepts such as .NET, React, CMake, Docker, JBeam (BeamNG.drive's vehicle description language), and various game modding APIs including Fabric (Minecraft) alongside working with RGB SDKs (Primarily iCue). I also have worked with cloud services - Beyond AWS, I also have my own cloud instance too which I run containers on.
