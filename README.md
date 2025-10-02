@@ -1,6 +1,6 @@
 # Hey! 👋🏻
 
-I'm Ben, a student and developer with a passion for trying out new areas of software development, from utilities, webapps and modding games to university projects and desktop applications.
+I'm Ben, a developer with a passion for trying out new areas of software development, from utilities, webapps and modding games to my former university projects and desktop applications.
 
 I have a keen interest on unique platforms (ranging from Windows 10 Mobile to the Nintendo Wii U) - They hold a special place to me for some reason 😂. Beyond software development, I also have an interest in electronics, cars and DIY.
 
